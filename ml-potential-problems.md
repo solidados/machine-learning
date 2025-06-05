@@ -35,4 +35,3 @@ _When using ML, estimate the amount of uncertainty a model may have. Compensate 
 
 ## Quiz
 <img src="./assets/img/quiz-3.png" style="display: block; margin: 0 auto; width: 800px;" alt="illustration 7">
-ml_art-of-the-possible
